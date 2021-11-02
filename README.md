@@ -15,7 +15,9 @@ Guidelines:
 - Please trim the excess space from the beginning and end of the samples to
   keep the file size to a minimum.  Once you have a collection of samples,
   create a subfolder in the following format:
-- Avoid the use of whitespace in file or folder names
+- Avoid the use of whitespace in file or folder names, dashes are preferred,
+  underscores are also acceptable
+- Do not sample from copyrighted songs, TV or any other copyrighted work
 - Please keep the quality high, take the extra time to EQ, trim and process
   the samples as many times as needed to get the desired sound
 
