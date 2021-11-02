@@ -1,9 +1,10 @@
 # stargate-sample-pack
-Perhaps the world's first properly open source, crowd sourced sample pack.
-Stargate DAW projects bundle the samples they use, but nearly all sample packs
-either do not allow redistributing samples, or have vague licensing that makes
-distributing samples questionable.  This sample pack aims to create high
-quality samples, for free, that can be used by anybody for any purpose, without
+Perhaps the world's first properly open source, crowd sourced, free,
+royalty-free, attribution-free sample pack.  Stargate DAW projects bundle the
+samples they use, but nearly all sample packs either do not allow
+redistributing samples, or have vague licensing that makes distributing samples
+questionable or difficult.  This sample pack aims to create high quality
+samples, for free, that can be used by anybody for any purpose, without
 restriction.
 
 # Contributing
@@ -32,6 +33,7 @@ stargate-sample-pack/your-artist-name/your-sample-pack-name
 kick-drums/
 snares/
 claps/
+loops/
 hihats/
 violin/
 synth-bass/
