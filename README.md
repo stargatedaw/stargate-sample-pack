@@ -25,6 +25,8 @@ Guidelines:
   the samples as many times as needed to get the desired sound.  Considering
   filtering off excessive low and high frequencies if that makes sense on
   the particular sample.
+- Github has a file size limit of 100MB, but generally samples should be much
+  smaller than this
 
 ### Creating the folder structure
 ```
