@@ -1,6 +1,7 @@
 # stargate-sample-pack
 Perhaps the world's first properly open source, crowd sourced, free,
-royalty-free, attribution-free sample pack.  Stargate DAW projects bundle the
+royalty-free, attribution-free sample pack.
+[Stargate DAW](https://github.com/stargateaudio/stargate) projects bundle the
 samples they use, but nearly all sample packs either do not allow
 redistributing samples, or have vague licensing that makes distributing samples
 questionable or difficult.  This sample pack aims to create high quality
