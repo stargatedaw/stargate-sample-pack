@@ -1,9 +1,10 @@
 # stargate-sample-pack
-Perhaps the world's first properly open source sample pack.  Stargate DAW
-projects bundle the samples they use, but nearly all sample packs either do not
-allow redistributing samples, or have vague licensing that makes distributing
-samples questionable.  This sample pack aims to create high quality samples,
-for free, that can be used by anybody for any purpose, without restriction.
+Perhaps the world's first properly open source, crowd sourced sample pack.
+Stargate DAW projects bundle the samples they use, but nearly all sample packs
+either do not allow redistributing samples, or have vague licensing that makes
+distributing samples questionable.  This sample pack aims to create high
+quality samples, for free, that can be used by anybody for any purpose, without
+restriction.
 
 # Contributing
 You can synthesize, record and process samples in Stargate DAW or any
@@ -19,7 +20,9 @@ Guidelines:
   underscores are also acceptable
 - Do not sample from copyrighted songs, TV or any other copyrighted work
 - Please keep the quality high, take the extra time to EQ, trim and process
-  the samples as many times as needed to get the desired sound
+  the samples as many times as needed to get the desired sound.  Considering
+  filtering off excessive low and high frequencies if that makes sense on
+  the particular sample.
 
 ### Creating the folder structure
 ```
@@ -32,9 +35,11 @@ claps/
 hihats/
 violin/
 synth-bass/
+bass-guitar/
 
 # You can create a README.md in your artist name and sample pack name folders
-# to describe the sample pack, promote your website or pages
+# to describe the sample pack, give yourself attribution, promote your
+# website or pages
 ```
 
 Create a pull request from this.  If you do not know how to create a pull
