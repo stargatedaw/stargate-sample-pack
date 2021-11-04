@@ -8,6 +8,9 @@ questionable or difficult.  This sample pack aims to create high quality
 samples, for free, that can be used by anybody for any purpose, without
 restriction.
 
+# SFZ instruments
+[See this link](./sfz_instruments.md)
+
 # Contributing
 You can synthesize, record and process samples in Stargate DAW or any
 other software, as long as it is not playing samples.  For example, you cannot
