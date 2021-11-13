@@ -17,5 +17,5 @@ Links:
   )
 - [A huge and very nice collection of samples, many public domain](
     https://vis.versilstudios.com/vsco-community.html
-  )
-
+  ), see also [this](https://github.com/sgossner/VCSL) and [this](
+    https://github.com/sgossner/VSCO-2-CE)

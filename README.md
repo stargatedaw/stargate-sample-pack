@@ -1,12 +1,19 @@
 # stargate-sample-pack
-Perhaps the world's first properly open source, crowd sourced, free,
-royalty-free, attribution-free sample pack.
+A properly open source, crowd sourced, free, royalty-free, attribution-free
+sample pack, designed for the common use-cases and a relatively small download
+size.
 [Stargate DAW](https://github.com/stargateaudio/stargate) projects bundle the
 samples they use, but nearly all sample packs either do not allow
 redistributing samples, or have vague licensing that makes distributing samples
 questionable or difficult.  This sample pack aims to create high quality
 samples, for free, that can be used by anybody for any purpose, without
 restriction.
+
+# Other Sample Packs We Like
+We encourage you to check out these fine public domain sample packs too:
+- [https://github.com/sgossner/VSCO-2-CE](
+    https://github.com/sgossner/VSCO-2-CE)
+- [https://github.com/sgossner/VCSL](https://github.com/sgossner/VCSL)
 
 # SFZ instruments
 [See this link](./sfz_instruments.md)
