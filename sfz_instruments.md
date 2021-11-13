@@ -15,4 +15,7 @@ Links:
 - [A steel drum SFZ under "The Unlicense"](
     https://github.com/jlearman/jSteelDrum2
   )
+- [A huge and very nice collection of samples, many public domain](
+    https://vis.versilstudios.com/vsco-community.html
+  )
 
