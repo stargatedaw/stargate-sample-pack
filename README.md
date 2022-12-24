@@ -1,6 +1,9 @@
 # stargate-sample-pack
+[DOWNLOAD THE LATEST](
+  https://github.com/stargatedaw/stargate-sample-pack/archive/refs/heads/main.zip
+)
 A properly open source, crowd sourced, free, royalty-free, attribution-free
-sample pack, designed for the common use-cases and a relatively small download
+sample pack, optimized for the common use-cases and a relatively small download
 size.
 [Stargate DAW](https://github.com/stargateaudio/stargate) projects bundle the
 samples they use, but nearly all sample packs either do not allow
